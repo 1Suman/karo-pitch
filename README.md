@@ -1,4 +1,4 @@
-# Karo Pitch — Landing Page
+# Karo Pitch - Landing Page
 
 A responsive landing page built for **Karo Pitch**, a startup pitch platform by KaroStartup.
 
