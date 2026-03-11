@@ -1,6 +1,6 @@
 # Karo Pitch — Landing Page
 
-A responsive landing page built for **Karo Pitch**, a startup pitch platform by KaroStartup that connects early stage founders from Tier-2 and Tier-3 cities across India with active investors.
+A responsive landing page built for **Karo Pitch**, a startup pitch platform by KaroStartup.
 
 ---
 
