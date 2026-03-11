@@ -1,6 +1,6 @@
 # Karo Pitch — Landing Page
 
-A responsive landing page built for **Karo Pitch**, a startup pitch platform by KaroStartup that connects early-stage founders from Tier-2 and Tier-3 cities across India with active investors.
+A responsive landing page built for **Karo Pitch**, a startup pitch platform by KaroStartup that connects early stage founders from Tier-2 and Tier-3 cities across India with active investors.
 
 ---
 
@@ -12,11 +12,10 @@ A responsive landing page built for **Karo Pitch**, a startup pitch platform by 
 
 ## Tech Stack
 
-- **React** — component-based UI
-- **Vite** — fast development build tool
-- **Tailwind CSS v4** — utility-first styling
-- **Google Fonts** — Syne (headings) + DM Sans (body)
-
+- **React** 
+- **Vite** 
+- **Tailwind CSS v4**
+- **Google Fonts** 
 ---
 
 ## Project Structure
