@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 56" fill="none">
+  <!-- Red square icon with rounded corners -->
+  <rect x="0" y="4" width="48" height="48" rx="8" fill="#C1272D"/>
+
+  <!-- Rocket / arrow icon inside red box -->
+  <!-- Rocket body pointing top-right -->
+  <g transform="translate(24, 28) rotate(-35)">
+    <!-- Rocket body -->
+    <ellipse cx="0" cy="0" rx="6" ry="10" fill="white"/>
+    <!-- Rocket nose -->
+    <polygon points="0,-10 -4,-4 4,-4" fill="white"/>
+    <!-- Rocket fins -->
+    <polygon points="-6,6 -10,12 -2,8" fill="rgba(255,255,255,0.7)"/>
+    <polygon points="6,6 10,12 2,8" fill="rgba(255,255,255,0.7)"/>
+    <!-- Rocket window -->
+    <circle cx="0" cy="-1" r="2.5" fill="#C1272D"/>
+  </g>
+
+  <!-- "Pitch" text -->
+  <text
+    x="60"
+    y="32"
+    font-family="'Syne', 'Arial Black', sans-serif"
+    font-weight="700"
+    font-size="26"
+    fill="white"
+    letter-spacing="0.5"
+  >Pitch</text>
+
+  <!-- "by Karostartup" text -->
+  <text
+    x="61"
+    y="46"
+    font-family="'DM Sans', Arial, sans-serif"
+    font-weight="400"
+    font-size="11"
+    fill="rgba(255,255,255,0.6)"
+    letter-spacing="0.3"
+  >by Karostartup</text>
+</svg>
